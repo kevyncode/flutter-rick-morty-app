@@ -82,13 +82,9 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
                           opacity: scrollOffset > 100 ? 0.9 : 1.0,
                           duration: const Duration(milliseconds: 300),
                           child: SvgPicture.asset(
-                            'lib/assets/images/logo.png',
-                            height: 77,
-                            width: 115,
-                            colorFilter: ColorFilter.mode(
-                              AppColors.primary,
-                              BlendMode.srcIn,
-                            ),
+                            'lib/assets/images/logo.svg',
+                            height: 80,
+                            width: 80,
                           ),
                         ),
                         // Texto do título com animação suave

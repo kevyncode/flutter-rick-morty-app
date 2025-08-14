@@ -277,7 +277,7 @@ flutter build ios --release
   <img src="https://github.com/kevyncode.png" alt="Kevyn Rodrigues" width="150" style="border-radius: 50%"/>
   
   **Kevyn Rodrigues**  
-  *Mobile Developer Flutter*
+  *Full-Stack Developer*
   
   [![GitHub](https://img.shields.io/badge/GitHub-kevyncode-black.svg)](https://github.com/kevyncode)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-kevynrodigues-blue.svg)](https://www.linkedin.com/in/kevyncode/)
